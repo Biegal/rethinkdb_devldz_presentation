@@ -1,0 +1,3 @@
+http://www.slideshare.net/mraible/the-art-of-angularjs
+http://www.slideshare.net/mraible/the-art-of-angularjs-in-2015
+https://docs.angularjs.org/guide/introduction
